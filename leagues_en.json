@@ -1,5 +1,10 @@
 [
   {
+    "id": 0,
+    "name": "All leagues",
+    "logo_url": "https://media.appbongda24h.vn/images/leagues/Premier_League.png"
+  },
+  {
     "id": 8,
     "name": "Premier league",
     "logo_url": "https://media.appbongda24h.vn/images/leagues/Premier_League.png"
