@@ -1,10 +1,5 @@
 [
   {
-    "id": 511,
-    "name": "AFF Cup",
-    "logo_url": "https://media.appbongda24h.vn/images/leagues/2014_AFF_Suzuki_Cup.png"
-  },
-  {
     "id": 8,
     "name": "Premier league",
     "logo_url": "https://media.appbongda24h.vn/images/leagues/Premier_League.png"
@@ -43,6 +38,11 @@
     "id": 7,
     "name": "La Liga",
     "logo_url": "https://media.appbongda24h.vn/images/leagues/Primera_Division.png"
+  },
+  {
+    "id": 511,
+    "name": "AFF Cup",
+    "logo_url": "https://media.appbongda24h.vn/images/leagues/2014_AFF_Suzuki_Cup.png"
   },
   {
     "id": 430,
