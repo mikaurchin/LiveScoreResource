@@ -20,6 +20,16 @@
     "logo_url": "https://media.appbongda24h.vn/images/leagues/Ligue_1.png"
   },
   {
+    "id": 7,
+    "name": "La Liga",
+    "logo_url": "https://media.appbongda24h.vn/images/leagues/Primera_Division.png"
+  },
+  {
+    "id": 511,
+    "name": "AFF Cup",
+    "logo_url": "https://media.appbongda24h.vn/images/leagues/2014_AFF_Suzuki_Cup.png"
+  },
+  {
     "id": 10,
     "name": "Champions League",
     "logo_url": "https://media.appbongda24h.vn/images/leagues/UEFA_Champions_League.png"
@@ -33,16 +43,6 @@
     "id": 93,
     "name": "FA cup",
     "logo_url": "https://media.appbongda24h.vn/images/leagues/FA_Cup.png"
-  },
-  {
-    "id": 7,
-    "name": "La Liga",
-    "logo_url": "https://media.appbongda24h.vn/images/leagues/Primera_Division.png"
-  },
-  {
-    "id": 511,
-    "name": "AFF Cup",
-    "logo_url": "https://media.appbongda24h.vn/images/leagues/2014_AFF_Suzuki_Cup.png"
   },
   {
     "id": 430,
