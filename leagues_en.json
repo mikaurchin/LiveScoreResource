@@ -1,0 +1,52 @@
+[
+  {
+    "id": 511,
+    "name": "AFF Cup",
+    "logo_url": "https://media.appbongda24h.vn/images/leagues/2014_AFF_Suzuki_Cup.png"
+  },
+  {
+    "id": 8,
+    "name": "Premier league",
+    "logo_url": "https://media.appbongda24h.vn/images/leagues/Premier_League.png"
+  },
+  {
+    "id": 13,
+    "name": "Serie A",
+    "logo_url": "https://media.appbongda24h.vn/images/leagues/Serie_A.png"
+  },
+  {
+    "id": 9,
+    "name": "Bundesliga",
+    "logo_url": "https://media.appbongda24h.vn/images/leagues/BundesLiga.png"
+  },
+  {
+    "id": 16,
+    "name": "League 1",
+    "logo_url": "https://media.appbongda24h.vn/images/leagues/Ligue_1.png"
+  },
+  {
+    "id": 10,
+    "name": "Champions League",
+    "logo_url": "https://media.appbongda24h.vn/images/leagues/UEFA_Champions_League.png"
+  },
+  {
+    "id": 18,
+    "name": "Europa League",
+    "logo_url": "https://media.appbongda24h.vn/images/leagues/UEFA_Europa.png"
+  },
+  {
+    "id": 93,
+    "name": "FA cup",
+    "logo_url": "https://media.appbongda24h.vn/images/leagues/FA_Cup.png"
+  },
+  {
+    "id": 7,
+    "name": "La Liga",
+    "logo_url": "https://media.appbongda24h.vn/images/leagues/Primera_Division.png"
+  },
+  {
+    "id": 430,
+    "name": "Frienship",
+    "logo_url": "https://media.appbongda24h.vn/images/leagues/Friendlies.png"
+  }
+]
