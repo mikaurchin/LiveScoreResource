@@ -2,6 +2,7 @@
 
     "data_source": 1,
     "live_streaming_enable": false,
+    "get_days_have_match_fr_fb24h": true,
     "new_version": {
         "version_code": 1,
         "version_name": "1.0.0",
