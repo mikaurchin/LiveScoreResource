@@ -8,6 +8,8 @@
         "version_name": "1.0.0",
         "force_update": false,
         "download_url": ""
-    }
+    },
+    "show_vn_league": false,
+    "vn_leagues": [25, 42]
     
 }
