@@ -9,7 +9,7 @@
         "force_update": false,
         "download_url": ""
     },
-    "show_vn_league": true,
+    "show_vn_league": false,
     "vn_leagues": [25, 42]
     
 }
