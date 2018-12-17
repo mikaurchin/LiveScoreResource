@@ -17,6 +17,7 @@
     "vn_leagues": [25, 42],
     
     "ads_configs": {
+        "enable": true,
         "facebook": {
             "priority_level": 1,
             "enable": true,
