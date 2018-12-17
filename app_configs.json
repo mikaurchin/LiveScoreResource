@@ -1,15 +1,30 @@
 {
 
     "data_source": 1,
+    
     "live_streaming_enable": false,
+    
     "get_days_have_match_fr_fb24h": true,
+    
     "new_version": {
         "version_code": 1,
         "version_name": "1.0.0",
         "force_update": false,
         "download_url": ""
     },
-    "show_vn_league": false,
-    "vn_leagues": [25, 42]
     
+    "show_vn_league": false,
+    "vn_leagues": [25, 42],
+    
+    "ads_configs": {
+        "facebook": {
+            "priority_level": 1,
+            "enable": true,
+            "placement_banner":  "266671027356167_266672414022695"
+        },
+        "unity": {
+            "priority_level": 2,
+            "enable": true
+        }
+    }
 }
