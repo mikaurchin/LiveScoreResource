@@ -1,5 +1,7 @@
 {
 
+    "from_api": true,
+
     "data_source": 1,
     
     "live_streaming_enable": false,
