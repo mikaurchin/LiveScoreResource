@@ -8,6 +8,8 @@
     
     "get_days_have_match_fr_fb24h": true,
     
+    "youtube_videos_off": "true",
+    
     "new_version": {
         "enable": false,
         "version_code": 15568,
