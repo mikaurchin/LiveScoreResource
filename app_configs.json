@@ -11,7 +11,7 @@
     "new_version": {
         "version_code": 15568,
         "version_name": "2.0.0",
-        "force_update": false,
+        "force_update": true,
         "download_url": "",
         "url": "https://play.google.com/store/apps/details?id=com.facebook.katana"
     },
