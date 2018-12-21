@@ -26,8 +26,8 @@
     "ads_configs": {
         "enable": true,
         
-        "video_max_a_day": 3,
-        "video_distance": 1,
+        "video_max_a_day": 8,
+        "video_distance": 3,
         
         "facebook": {
             "priority_level": 1,
