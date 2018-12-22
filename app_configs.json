@@ -28,6 +28,7 @@
         
         "video_max_a_day": 8,
         "video_distance": 3,
+        "videos_after_numbers_detail_showed": 6,
         
         "facebook": {
             "priority_level": 1,
