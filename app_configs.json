@@ -21,7 +21,7 @@
     },
     
     "show_vn_league": false,
-    "vn_leagues": [25, 42],
+    "vn_leagues": [25, 42, 44],
     
     "ads_configs": {
         "enable": true,
