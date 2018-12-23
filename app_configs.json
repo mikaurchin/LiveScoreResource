@@ -24,7 +24,7 @@
     "vn_leagues": [25, 42, 44],
     
     "ads_configs": {
-        "enable": false,
+        "enable": true,
         
         "video_max_a_day": 8,
         "video_distance": 3,
