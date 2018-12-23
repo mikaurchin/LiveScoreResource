@@ -32,7 +32,7 @@
         
         "facebook": {
             "priority_level": 1,
-            "enable": true,
+            "enable": false,
             "placement_banner":  "266671027356167_266672414022695"
         },
         "unity": {
