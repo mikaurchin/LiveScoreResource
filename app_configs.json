@@ -39,7 +39,9 @@
             "unity_game_id": "2965707",
             "priority_level": 2,
             "enable": true,
-            "home_banner":  "banner_1"
+            "home_banner":  "banner_1",
+            "unity_video":  "video",
+            "unity_video_rewarded":  "rewardedVideo",
         }
     }
 }
