@@ -32,12 +32,13 @@
         
         "facebook": {
             "priority_level": 1,
-            "enable": false,
-            "placement_banner":  "266671027356167_266672414022695"
+            "enable": true,
+            "home_banner":  "266671027356167_266672414022695"
         },
         "unity": {
             "priority_level": 2,
-            "enable": true
+            "enable": true,
+            "home_banner":  "banner_1"
         }
     }
 }
