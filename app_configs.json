@@ -36,6 +36,7 @@
             "home_banner":  "266671027356167_266672414022695"
         },
         "unity": {
+            "unity_game_id": "2965707",
             "priority_level": 2,
             "enable": true,
             "home_banner":  "banner_1"
