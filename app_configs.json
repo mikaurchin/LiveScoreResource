@@ -45,7 +45,7 @@
             "enable": true,
             "home_banner":  "banner_1",
             "unity_video":  "video",
-            "unity_video_rewarded":  "rewardedVideo",
+            "unity_video_rewarded":  "rewardedVideo"
         }
     }
 }
