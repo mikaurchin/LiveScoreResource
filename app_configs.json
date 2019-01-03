@@ -9,8 +9,8 @@
     "get_days_have_match_fr_fb24h": true,
     
     "youtube_videos_off": true,
-    "yt_just_enable_vn": true,
-    "yt_off_without": "5a8a1917-19a2-453e-a2bd-57aa2b1f7c76",
+    "yt_just_enable_vn": false,
+    "yt_off_without": "5a8a1917-19a2-453e-a2bd-57aa2b1f7c76-1",
     
     "new_version": {
         "enable": false,
