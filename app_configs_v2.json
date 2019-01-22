@@ -29,10 +29,10 @@
     "vn_leagues": [25, 42],
     
     "ads_configs": {
-        "enable": false,
+        "enable": true,
         
-        "video_max_a_day": 8,
-        "video_distance": 3,
+        "video_max_a_day": 6,
+        "video_distance": 5,
         "videos_after_numbers_detail_showed": 6,
         
         "facebook": {
