@@ -31,7 +31,7 @@
     "ads_configs": {
         "enable": true,
         
-        "video_max_a_day": 6,
+        "video_max_a_day": 5,
         "video_distance": 5,
         "videos_after_numbers_detail_showed": 6,
         
