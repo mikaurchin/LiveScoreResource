@@ -34,7 +34,7 @@
         "enable_home_banner": false,
         
         "video_max_a_day": 8,
-        "video_distance": 1,
+        "video_distance": 5,
         "videos_after_numbers_detail_showed": 5,
         
         "facebook": {
