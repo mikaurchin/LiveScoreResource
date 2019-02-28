@@ -8,8 +8,8 @@
     
     "live_streaming": {
         "enable": true,
-        "link_position": ""
-    }
+        "link_position": "0"
+    },
     
     "get_days_have_match_fr_fb24h": true,
     
