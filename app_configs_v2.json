@@ -44,6 +44,7 @@
         
         "admob": {
             "priority_level": 1,
+            "alway_show_video_in_live_match": false,
             "enable": true
         },
         
