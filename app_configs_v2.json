@@ -42,6 +42,11 @@
         "video_distance": 5,
         "videos_after_numbers_detail_showed": 5,
         
+        "admob": {
+            "priority_level": 1,
+            "enable": true
+        },
+        
         "facebook": {
             "priority_level": 1,
             "enable": true,
