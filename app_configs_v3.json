@@ -28,7 +28,7 @@
     "vn_leagues": [25, 42],
     
     "ads_configs": {
-        "enable": false,
+        "enable": true,
         
         "enable_home_banner": false,
         
