@@ -5,7 +5,7 @@
     "live_streaming": {
         "enable": true,
         "link_position": "1",
-        "total_links": 3
+        "total_links": 2
     },
     
     "youtube_videos": {
@@ -28,7 +28,7 @@
     "vn_leagues": [25, 42],
     
     "ads_configs": {
-        "enable": true,
+        "enable": false,
         
         "enable_home_banner": false,
         
