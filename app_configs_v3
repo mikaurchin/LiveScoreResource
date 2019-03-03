@@ -1,0 +1,70 @@
+{
+
+    "from_api": true,
+
+    "data_source": 1,
+    
+    "live_streaming_enable": false,
+    
+    "live_streaming": {
+        "enable": true,
+        "link_position": "1",
+        "total_links": 3
+    },
+    
+    "get_days_have_match_fr_fb24h": true,
+    
+    "youtube_videos_off": true,
+    "youtube_videos": {
+        "enable": true,
+        "yt_just_enable_vn": true,
+        "yt_off_without": "5a8a1917-19a2-453e-a2bd-57aa2b1f7c76"
+    },
+    
+    "new_version": {
+        "enable": false,
+        "version_code": 15568,
+        "version_name": "2.0.0",
+        "description": "Please update to the new version to continue using the app",
+        "force_update": true,
+        "download_url": "",
+        "url": "https://play.google.com/store/apps/details?id=com.facebook.katana"
+    },
+    
+    "show_vn_league": false,
+    "vn_leagues": [25, 42],
+    
+    "ads_configs": {
+        "enable": true,
+        
+        "enable_home_banner": false,
+        
+        "video_max_a_day": 0,
+        "video_distance": 5,
+        "videos_after_numbers_detail_showed": 5,
+        
+        "admob": {
+            "priority_level": 1,
+            "always_show_video_in_live_match": false,
+            "enable": true
+        },
+        
+        "facebook": {
+            "priority_level": 1,
+            "enable": true,
+            "home_banner":  "266671027356167_266672414022695",
+            "fixture_banner":  "266671027356167_269322920424311",
+            "fb_native_banner_1": "266671027356167_269285630428040",
+            "fb_interstitial_1": "266671027356167_269660887057181",
+            "fb_medium_rectangle_1": "266671027356167_269284753761461"
+        },
+        "unity": {
+            "unity_game_id": "2965707",
+            "priority_level": 2,
+            "enable": false,
+            "home_banner":  "banner_1",
+            "unity_video":  "video",
+            "unity_video_rewarded":  "rewardedVideo"
+        }
+    }
+}
