@@ -35,7 +35,7 @@
     "vn_leagues": [25, 42],
     
     "ads_configs": {
-        "enable": false,
+        "enable": true,
         
         "enable_home_banner": false,
         
@@ -61,7 +61,7 @@
         "unity": {
             "unity_game_id": "2965707",
             "priority_level": 2,
-            "enable": true,
+            "enable": false,
             "home_banner":  "banner_1",
             "unity_video":  "video",
             "unity_video_rewarded":  "rewardedVideo"
