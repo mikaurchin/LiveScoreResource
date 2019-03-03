@@ -3,13 +3,13 @@
     "from_api": true,
     
     "live_streaming": {
-        "enable": true,
+        "enable": false,
         "link_position": "1",
         "total_links": 2
     },
     
     "youtube_videos": {
-        "enable": true,
+        "enable": false,
         "yt_just_enable_vn": true,
         "yt_off_without": "5a8a1917-19a2-453e-a2bd-57aa2b1f7c76"
     },
