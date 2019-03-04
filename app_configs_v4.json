@@ -2,6 +2,8 @@
 
     "from_api": true,
     
+    "check_bdv_tz": true,
+    
     "live_streaming": {
         "enable": false,
         "link_position": "1",
