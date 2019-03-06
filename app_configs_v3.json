@@ -30,7 +30,7 @@
     "ads_configs": {
         "enable": true,
         
-        "enable_home_banner": false,
+        "enable_home_banner": true,
         
         "video_max_a_day": 0,
         "video_distance": 5,
