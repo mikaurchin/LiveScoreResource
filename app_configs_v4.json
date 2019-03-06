@@ -34,8 +34,8 @@
         
         "enable_home_banner": true,
         
-        "video_max_a_day": 0,
-        "video_distance": 5,
+        "video_max_a_day": 20,
+        "video_distance": 3,
         "videos_after_numbers_detail_showed": 5,
         
         "admob": {
@@ -47,7 +47,7 @@
         "unity": {
             "unity_game_id": "2965707",
             "priority_level": 2,
-            "enable": false,
+            "enable": true,
             "home_banner":  "banner_1",
             "unity_video":  "video",
             "unity_video_rewarded":  "rewardedVideo"
