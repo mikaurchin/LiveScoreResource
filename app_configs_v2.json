@@ -7,7 +7,7 @@
     "live_streaming_enable": false,
     
     "live_streaming": {
-        "enable": true,
+        "enable": false,
         "link_position": "1",
         "total_links": 3
     },
