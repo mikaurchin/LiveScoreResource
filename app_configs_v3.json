@@ -3,7 +3,7 @@
     "from_api": true,
     
     "live_streaming": {
-        "enable": false,
+        "enable": true,
         "link_position": "1",
         "total_links": 2
     },
