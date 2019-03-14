@@ -9,7 +9,7 @@
     },
     
     "youtube_videos": {
-        "enable": true,
+        "enable": false,
         "yt_just_enable_vn": true,
         "yt_off_without": "5a8a1917-19a2-453e-a2bd-57aa2b1f7c76"
     },
