@@ -46,6 +46,11 @@
             "enable": true
         },
         
+        "mopub": {
+            "priority_level": 1,
+            "enable": true
+        },
+        
         "unity": {
             "unity_game_id": "2965707",
             "priority_level": 2,
