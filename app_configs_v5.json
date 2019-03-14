@@ -43,7 +43,7 @@
         "admob": {
             "priority_level": 1,
             "always_show_video_in_live_match": false,
-            "enable": true
+            "enable": false
         },
         
         "mopub": {
