@@ -49,7 +49,7 @@
         
         "mopub": {
             "priority_level": 1,
-            "enable": true,
+            "enable": false,
             "home_banner": "7eac909f880a4522ac7a2ed0e4c616f8"
         },
         
