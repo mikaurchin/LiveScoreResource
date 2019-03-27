@@ -2,6 +2,8 @@
 
     "from_api": true,
     
+    "mode_black_dv": true,
+    
     "check_bdv_tz": true,
     
     "highlights_cached_size": 50,
