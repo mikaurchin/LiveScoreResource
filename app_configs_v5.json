@@ -2,7 +2,7 @@
 
     "from_api": true,
     
-    "mode_black_dv": true,
+    "mode_black_dv": false,
     
     "check_bdv_tz": true,
     
