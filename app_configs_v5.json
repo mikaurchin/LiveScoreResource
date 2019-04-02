@@ -32,7 +32,7 @@
     },
     
     "show_vn_league": false,
-    "vn_leagues": [25, 42],
+    "vn_leagues": [250, 420],
     
     "ads_configs": {
         "enable": true,
@@ -40,8 +40,8 @@
         "enable_home_banner": true,
         
         "video_max_a_day": 20,
-        "video_distance": 5,
-        "videos_after_numbers_detail_showed": 5,
+        "video_distance": 3,
+        "videos_after_numbers_detail_showed": 4,
         
         "admob": {
             "priority_level": 1,
