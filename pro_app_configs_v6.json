@@ -1,0 +1,61 @@
+{
+
+    "from_api": true,
+    
+    "mode_black_dv": false,
+    
+    "check_bdv_tz": true,
+    
+    "highlights_cached_size": 50,
+    
+    "live_streaming": {
+        "enable": true,
+        "link_position": "1",
+        "total_links": 2,
+        "start_time": "15/03/2019 00:55"
+    },
+    
+    "youtube_videos": {
+        "enable": true,
+        "yt_just_enable_vn": true,
+        "yt_off_without": "5a8a1917-19a2-453e-a2bd-57aa2b1f7c76"
+    },
+    
+    "new_version": {
+        "enable": false,
+        "version_code": 15568,
+        "version_name": "2.0.0",
+        "description": "Please update to the new version to continue using the app",
+        "force_update": true,
+        "download_url": "",
+        "url": "https://play.google.com/store/apps/details?id=com.facebook.katana"
+    },
+    
+    "show_vn_league": false,
+    "vn_leagues": [250, 420],
+    
+    "ads_configs": {
+        "enable": true,
+        
+        "enable_home_banner": true,
+        
+        "video_max_a_day": 20,
+        "video_distance": 5,
+        "videos_after_numbers_detail_showed": 4,
+        
+        "admob": {
+            "priority_level": 1,
+            "always_show_video_in_live_match": false,
+            "enable": false
+        },
+        
+        "unity": {
+            "unity_game_id": "2965707",
+            "priority_level": 2,
+            "enable": true,
+            "home_banner":  "banner_1",
+            "unity_video":  "video",
+            "unity_video_rewarded":  "rewardedVideo"
+        }
+    }
+}
