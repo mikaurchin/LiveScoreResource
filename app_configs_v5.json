@@ -9,33 +9,33 @@
     "highlights_cached_size": 50,
     
     "live_streaming": {
-        "enable": true,
+        "enable": false,
         "link_position": "1",
         "total_links": 2,
         "start_time": "15/03/2019 00:55"
     },
     
     "youtube_videos": {
-        "enable": true,
+        "enable": false,
         "yt_just_enable_vn": true,
         "yt_off_without": "5a8a1917-19a2-453e-a2bd-57aa2b1f7c76"
     },
     
     "new_version": {
-        "enable": false,
-        "version_code": 15568,
-        "version_name": "2.0.0",
-        "description": "Please update to the new version to continue using the app",
+        "enable": true,
+        "version_code": 224,
+        "version_name": "4.3.6pro",
+        "description": "Vì lý do kỹ thuật, bạn vui lòng cài đặt ứng dụng \"Bóng đá trực tuyến Pro\" để tiếp tục sử dụng bình thường. Chúng tôi sẽ tạm thời ngừng một số tính năng của ứng hiện tại. \nMong rằng bạn sẽ tiếp tục sử dụng và ủng và đánh giá 5* cho ứng dụng mới này để chúng tôi ngày càng hoàn thiệ hơn. \nXin chân thành cảm ơn!",
         "force_update": true,
         "download_url": "",
-        "url": "https://play.google.com/store/apps/details?id=com.facebook.katana"
+        "url": "https://play.google.com/store/apps/details?id=com.mku.livepro"
     },
     
     "show_vn_league": false,
     "vn_leagues": [250, 420],
     
     "ads_configs": {
-        "enable": true,
+        "enable": false,
         
         "enable_home_banner": true,
         
