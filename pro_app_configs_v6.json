@@ -8,11 +8,11 @@
     
     "highlights_cached_size": 50,
     
-    "youtube_api_keys": {
+    "youtube_api_keys": [
         "AIzaSyDNcSKcjDtml5yOVhvQX4TZMp5MJKGHD1A",
         "AIzaSyAh2VTGiySbVgAHTSpSybhvuaZ9J2l0fS8",
         "AIzaSyCP72PdgrPr194ueamO1E0mgYNEZUpfFP0"
-    }, 
+    ], 
     
     "live_streaming": {
         "enable": true,
