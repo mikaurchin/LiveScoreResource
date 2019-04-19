@@ -16,13 +16,13 @@
     },
     
     "youtube_videos": {
-        "enable": false,
+        "enable": true,
         "yt_just_enable_vn": true,
         "yt_off_without": "5a8a1917-19a2-453e-a2bd-57aa2b1f7c76"
     },
     
     "new_version": {
-        "enable": true,
+        "enable": false,
         "version_code": 224,
         "version_name": "4.3.6pro",
         "description": "Vì lý do kỹ thuật, bạn vui lòng cài đặt ứng dụng \"Bóng đá trực tuyến Pro\" để tiếp tục sử dụng bình thường. Chúng tôi sẽ tạm thời ngừng một số tính năng của ứng dụng hiện tại. \n\nMong rằng bạn sẽ đánh giá 5* cho ứng dụng mới này để chúng tôi ngày càng hoàn thiện hơn. \n\nXin chân thành cảm ơn!",
