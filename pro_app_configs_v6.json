@@ -6,6 +6,8 @@
     
     "check_bdv_tz": true,
     
+    "is_store_reviewing": true,
+    
     "highlights_cached_size": 50,
     
     "youtube_api_keys": [
