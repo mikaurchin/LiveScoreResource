@@ -35,7 +35,7 @@
     "vn_leagues": [250, 420],
     
     "ads_configs": {
-        "enable": false,
+        "enable": true,
         
         "enable_home_banner": true,
         
@@ -46,19 +46,19 @@
         "admob": {
             "priority_level": 1,
             "always_show_video_in_live_match": false,
-            "enable": false
+            "enable": true
         },
         
         "mopub": {
             "priority_level": 1,
-            "enable": true,
+            "enable": false,
             "home_banner": "76bc8e94637b47a4828210adb7ffd7d4"
         },
         
         "unity": {
             "unity_game_id": "2965707",
             "priority_level": 2,
-            "enable": true,
+            "enable": false,
             "home_banner":  "banner_1",
             "unity_video":  "video",
             "unity_video_rewarded":  "rewardedVideo"
