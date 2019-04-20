@@ -2,7 +2,7 @@
 
     "from_api": true,
     
-    "mode_black_dv": true,
+    "mode_black_dv": false,
     
     "check_bdv_tz": true,
     
@@ -43,7 +43,7 @@
     "vn_leagues": [250, 420],
     
     "ads_configs": {
-        "enable": false,
+        "enable": true,
         
         "enable_home_banner": true,
         
