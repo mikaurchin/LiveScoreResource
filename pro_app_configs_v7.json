@@ -49,7 +49,7 @@
         
         "video_max_a_day": 20,
         "video_distance": 5,
-        "videos_after_numbers_detail_showed": 4,
+        "videos_after_numbers_detail_showed": 1,
         
         "admob": {
             "priority_level": 1,
