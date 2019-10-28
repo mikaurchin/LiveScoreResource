@@ -21,22 +21,129 @@
         "url": "https://play.google.com/store/apps/details?id=com.mku.mkulivescore"
     },
     
-    "ads_configs": {
-        "enable": true,
-        
-        "video_max_a_day": 20,
-        "video_distance": 5,
-        "videos_after_numbers_detail_showed": 4,
-        
-        "admob": {
-            "priority_level": 1,
-            "always_show_video_in_live_match": false,
-            "enable": true
-        }
-    },
     "ads_custom": {
         "enable": false,
         "im_url": "https://github.com/mikaurchin/LiveScoreResource/blob/master/thumbnail_team_default.png",
         "link": "https://play.google.com/store/apps/details?id=com.mku.mkulivescore"
-    }
+    },
+    
+    "ad_configs": {
+    "enable": true,
+    "video_distance": 5,
+    "matchs_per_video": 4,
+    "ads": [
+      {
+        "screen": "news",
+        "add_types": [
+          {
+            "type": "banner",
+            "units": [
+              {
+                "network": "admob",
+                "id": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "screen": "news_detail",
+        "add_types": [
+          {
+            "type": "banner",
+            "units": [
+              {
+                "network": "admob",
+                "id": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "screen": "fixture",
+        "add_types": [
+          {
+            "type": "banner",
+            "units": [
+              {
+                "network": "admob",
+                "id": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "screen": "match_detail",
+        "add_types": [
+          {
+            "type": "banner",
+            "units": [
+              {
+                "network": "admob",
+                "id": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "screen": "tables",
+        "add_types": [
+          {
+            "type": "banner",
+            "units": [
+              {
+                "network": "admob",
+                "id": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "screen": "leagues",
+        "add_types": [
+          {
+            "type": "banner",
+            "units": [
+              {
+                "network": "admob",
+                "id": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "screen": "league_detail",
+        "add_types": [
+          {
+            "type": "banner",
+            "units": [
+              {
+                "network": "admob",
+                "id": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "screen": "team_detail",
+        "add_types": [
+          {
+            "type": "banner",
+            "units": [
+              {
+                "network": "admob",
+                "id": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
