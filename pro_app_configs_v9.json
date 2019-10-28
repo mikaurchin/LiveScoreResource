@@ -27,12 +27,15 @@
     "matchs_per_video": 4,
     "ads": [
       {
+        "enable": true,
         "screen": "news",
         "ad_types": [
           {
+            "enable": true,
             "type": "banner",
             "units": [
               {
+                "enable": true,
                 "network": "admob",
                 "id": ""
               }
@@ -41,12 +44,15 @@
         ]
       },
       {
+        "enable": true,
         "screen": "news_detail",
         "ad_types": [
           {
+            "enable": true,
             "type": "banner",
             "units": [
               {
+                "enable": true,
                 "network": "admob",
                 "id": ""
               }
@@ -55,12 +61,15 @@
         ]
       },
       {
+        "enable": true,
         "screen": "fixture",
         "ad_types": [
           {
+            "enable": true,
             "type": "banner",
             "units": [
               {
+                "enable": true,
                 "network": "admob",
                 "id": ""
               }
@@ -69,12 +78,15 @@
         ]
       },
       {
+        "enable": true,
         "screen": "match_detail",
         "ad_types": [
           {
+            "enable": true,
             "type": "banner",
             "units": [
               {
+                "enable": true,
                 "network": "admob",
                 "id": ""
               }
@@ -83,12 +95,15 @@
         ]
       },
       {
+        "enable": true,
         "screen": "tables",
         "ad_types": [
           {
+            "enable": true,
             "type": "banner",
             "units": [
               {
+                "enable": true,
                 "network": "admob",
                 "id": ""
               }
@@ -97,12 +112,15 @@
         ]
       },
       {
+        "enable": true,
         "screen": "leagues",
         "ad_types": [
           {
+            "enable": true,
             "type": "banner",
             "units": [
               {
+                "enable": true,
                 "network": "admob",
                 "id": ""
               }
@@ -111,12 +129,15 @@
         ]
       },
       {
+        "enable": true,
         "screen": "league_detail",
         "ad_types": [
           {
+            "enable": true,
             "type": "banner",
             "units": [
               {
+                "enable": true,
                 "network": "admob",
                 "id": ""
               }
@@ -125,12 +146,15 @@
         ]
       },
       {
+        "enable": true,
         "screen": "team_detail",
         "ad_types": [
           {
+            "enable": true,
             "type": "banner",
             "units": [
               {
+                "enable": true,
                 "network": "admob",
                 "id": ""
               }
