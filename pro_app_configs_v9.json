@@ -28,7 +28,7 @@
     "ads": [
       {
         "screen": "news",
-        "add_types": [
+        "ad_types": [
           {
             "type": "banner",
             "units": [
@@ -42,7 +42,7 @@
       },
       {
         "screen": "news_detail",
-        "add_types": [
+        "ad_types": [
           {
             "type": "banner",
             "units": [
@@ -56,7 +56,7 @@
       },
       {
         "screen": "fixture",
-        "add_types": [
+        "ad_types": [
           {
             "type": "banner",
             "units": [
@@ -70,7 +70,7 @@
       },
       {
         "screen": "match_detail",
-        "add_types": [
+        "ad_types": [
           {
             "type": "banner",
             "units": [
@@ -84,7 +84,7 @@
       },
       {
         "screen": "tables",
-        "add_types": [
+        "ad_types": [
           {
             "type": "banner",
             "units": [
@@ -98,7 +98,7 @@
       },
       {
         "screen": "leagues",
-        "add_types": [
+        "ad_types": [
           {
             "type": "banner",
             "units": [
@@ -112,7 +112,7 @@
       },
       {
         "screen": "league_detail",
-        "add_types": [
+        "ad_types": [
           {
             "type": "banner",
             "units": [
@@ -126,7 +126,7 @@
       },
       {
         "screen": "team_detail",
-        "add_types": [
+        "ad_types": [
           {
             "type": "banner",
             "units": [
