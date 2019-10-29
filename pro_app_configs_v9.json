@@ -113,6 +113,17 @@
                 "id": "ca-app-pub-3940256099942544/6300978111"
               }
             ]
+          },
+          {
+            "enable": true,
+            "type": "interstitial",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-3940256099942544/1033173712"
+              }
+            ]
           }
         ]
       },
