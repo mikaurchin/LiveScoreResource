@@ -60,12 +60,12 @@
         "ad_types": [
           {
             "enable": true,
-            "type": "banner",
+            "type": "native",
             "units": [
               {
                 "enable": true,
                 "network": "admob",
-                "id": ""
+                "id": "ca-app-pub-3940256099942544/2247696110"
               }
             ]
           }
