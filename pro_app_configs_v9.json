@@ -28,6 +28,23 @@
     "ads": [
       {
         "enable": true,
+        "screen": "home",
+        "ad_types": [
+          {
+            "enable": true,
+            "type": "rewarded",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-3940256099942544/5224354917"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "enable": true,
         "screen": "news",
         "ad_types": [
           {
