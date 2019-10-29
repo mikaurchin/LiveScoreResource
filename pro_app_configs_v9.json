@@ -82,7 +82,18 @@
               {
                 "enable": true,
                 "network": "admob",
-                "id": ""
+                "id": "ca-app-pub-3940256099942544/6300978111"
+              }
+            ]
+          },
+          {
+            "enable": true,
+            "type": "native",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-3940256099942544/2247696110"
               }
             ]
           }
