@@ -25,6 +25,7 @@
     "enable": true,
     "video_distance": 5,
     "matchs_per_video": 4,
+    "open_app_per_video": 3,
     "ads": [
       {
         "enable": true,
