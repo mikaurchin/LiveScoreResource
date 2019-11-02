@@ -2,7 +2,7 @@
   "mode_black_dv": false,
   "highlights_cached_size": 50,
   "live_streaming": {
-    "enable": false,
+    "enable": true,
     "link_position": "1",
     "total_links": 2,
     "start_time": "15/03/2019 00:55"
