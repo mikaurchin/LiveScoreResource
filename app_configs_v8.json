@@ -1,0 +1,240 @@
+{
+  "mode_black_dv": true,
+  "highlights_cached_size": 50,
+  "live_streaming": {
+    "enable": false,
+    "link_position": "1",
+    "total_links": 2,
+    "start_time": "15/03/2019 00:55"
+  },
+  "new_version": {
+    "enable": false,
+    "version_code": 224,
+    "version_name": "4.3.6pro",
+    "description": "Vì lý do kỹ thuật, bạn vui lòng cài đặt ứng dụng \"Bóng đá trực tuyến Pro\" để tiếp tục sử dụng bình thường. Chúng tôi sẽ tạm thời ngừng một số tính năng của ứng dụng hiện tại. \n\nMong rằng bạn sẽ đánh giá 5* cho ứng dụng mới này để chúng tôi ngày càng hoàn thiện hơn. \n\nXin chân thành cảm ơn!",
+    "force_update": false,
+    "download_url": "",
+    "url": "https://play.google.com/store/apps/details?id=com.mku.mkulivescore"
+  },
+  "ad_custom": {
+    "enable": false,
+    "im_url": "https://github.com/mikaurchin/LiveScoreResource/blob/master/thumbnail_team_default.png",
+    "link": "https://play.google.com/store/apps/details?id=com.mku.mkulivescore"
+  },
+  "ad_configs": {
+    "enable": false,
+    "video_distance": 5,
+    "matchs_per_video": 4,
+    "open_app_per_video": 3,
+    "ads": [
+      {
+        "enable": true,
+        "screen": "home",
+        "ad_types": [
+          {
+            "enable": true,
+            "type": "rewarded",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/4596659284"
+              }
+            ]
+          },
+          {
+            "enable": true,
+            "type": "interstitial",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/9110619369"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "enable": true,
+        "screen": "news",
+        "ad_types": [
+          {
+            "enable": true,
+            "type": "banner",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/4142452776"
+              }
+            ]
+          },
+          {
+            "enable": true,
+            "type": "native",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/5366815476"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "enable": true,
+        "screen": "news_detail",
+        "ad_types": [
+          {
+            "enable": true,
+            "type": "native",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/5366815476"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "enable": true,
+        "screen": "fixture",
+        "ad_types": [
+          {
+            "enable": true,
+            "type": "banner",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/4142452776"
+              }
+            ]
+          },
+          {
+            "enable": true,
+            "type": "native",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/5366815476"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "enable": true,
+        "screen": "match_detail",
+        "ad_types": [
+          {
+            "enable": true,
+            "type": "banner",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/2684054965"
+              }
+            ]
+          },
+          {
+            "enable": true,
+            "type": "rewarded",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/6347967802"
+              }
+            ]
+          },
+          {
+            "enable": true,
+            "type": "interstitial",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/8500724209"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "enable": true,
+        "screen": "tables",
+        "ad_types": [
+          {
+            "enable": true,
+            "type": "banner",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/8930856979"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "enable": true,
+        "screen": "leagues",
+        "ad_types": [
+          {
+            "enable": true,
+            "type": "banner",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/8930856979"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "enable": true,
+        "screen": "league_detail",
+        "ad_types": [
+          {
+            "enable": true,
+            "type": "banner",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/8930856979"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "enable": true,
+        "screen": "team_detail",
+        "ad_types": [
+          {
+            "enable": true,
+            "type": "banner",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/8930856979"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
