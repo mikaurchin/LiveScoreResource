@@ -2,7 +2,7 @@
   "mode_black_dv": true,
   "highlights_cached_size": 50,
   "live_streaming": {
-    "enable": false,
+    "enable": true,
     "link_position": "1",
     "total_links": 2,
     "start_time": "15/03/2019 00:55"
@@ -22,7 +22,7 @@
     "link": "https://play.google.com/store/apps/details?id=com.mku.mkulivescore"
   },
   "ad_configs": {
-    "enable": false,
+    "enable": true,
     "video_distance": 5,
     "matchs_per_video": 4,
     "open_app_per_video": 3,
