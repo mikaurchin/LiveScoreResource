@@ -22,7 +22,7 @@
     "link": "https://play.google.com/store/apps/details?id=com.mku.mkulivescore"
   },
   "ad_configs": {
-    "enable": true,
+    "enable": false,
     "video_distance": 5,
     "matchs_per_video": 4,
     "open_app_per_video": 3,
