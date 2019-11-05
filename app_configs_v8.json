@@ -1,5 +1,5 @@
 {
-  "mode_black_dv": true,
+  "mode_black_dv": false,
   "highlights_cached_size": 50,
   "live_streaming": {
     "enable": false,
