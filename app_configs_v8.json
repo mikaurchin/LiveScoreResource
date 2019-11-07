@@ -25,14 +25,14 @@
     "enable": true,
     "video_distance": 5,
     "matchs_per_video": 4,
-    "open_app_per_video": 3,
+    "open_app_per_video": 2,
     "ads": [
       {
         "enable": true,
         "screen": "home",
         "ad_types": [
           {
-            "enable": true,
+            "enable": false,
             "type": "rewarded",
             "units": [
               {
