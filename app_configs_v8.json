@@ -1,5 +1,5 @@
 {
-  "mode_black_dv": true,
+  "mode_black_dv": false,
   "highlights_cached_size": 50,
   "live_streaming": {
     "enable": false,
@@ -22,7 +22,7 @@
     "link": "https://play.google.com/store/apps/details?id=com.mku.mkulivescore"
   },
   "ad_configs": {
-    "enable": true,
+    "enable": false,
     "video_distance": 5,
     "matchs_per_video": 3,
     "open_app_per_video": 2,
