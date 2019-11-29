@@ -22,7 +22,7 @@
     },
     
     "ads_configs": {
-        "enable": true,
+        "enable": false,
         
         "video_max_a_day": 20,
         "video_distance": 5,
