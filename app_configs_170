@@ -1,7 +1,7 @@
 {
   "highlights_cached_size": 50,
   "new_version": {
-    "enable": false,
+    "enable": true,
     "version_code": 224,
     "version_name": "1.7.1",
     "description": "Please update to the new version for a better experience",
