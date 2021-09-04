@@ -1,0 +1,188 @@
+{
+  "highlights_cached_size": 50,
+  "new_version": {
+    "enable": false,
+    "version_code": 224,
+    "version_name": "1.7.1",
+    "description": "Please update to the new version for a better experience",
+    "force_update": false,
+    "download_url": "",
+    "url": "https://play.google.com/store/apps/details?id=com.mku.mkulivescore"
+  },
+  "ad_custom": {
+    "enable": false,
+    "im_url": "https://github.com/mikaurchin/LiveScoreResource/blob/master/thumbnail_team_default.png",
+    "link": "https://play.google.com/store/apps/details?id=com.mku.mkulivescore"
+  },
+  "ad_configs": {
+    "enable": false,
+    "video_distance": 5,
+    "matchs_per_video": 3,
+    "open_app_per_video": 2,
+    "ads": [
+      {
+        "enable": true,
+        "screen": "splash",
+        "ad_types": [
+          {
+            "enable": false,
+            "type": "rewarded",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/7948052259"
+              }
+            ]
+          },
+          {
+            "enable": true,
+            "type": "interstitial",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/4045284501"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "enable": true,
+        "screen": "fixture",
+        "ad_types": [
+          {
+            "enable": true,
+            "type": "banner",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/8102483354"
+              }
+            ]
+          },
+          {
+            "enable": true,
+            "type": "native",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/1761917854"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "enable": true,
+        "screen": "match_detail",
+        "ad_types": [
+          {
+            "enable": true,
+            "type": "banner",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/1345503318"
+              }
+            ]
+          },
+          {
+            "enable": true,
+            "type": "rewarded",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/6122476832"
+              }
+            ]
+          },
+          {
+            "enable": true,
+            "type": "interstitial",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/9424785453"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "enable": true,
+        "screen": "tables",
+        "ad_types": [
+          {
+            "enable": true,
+            "type": "banner",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/6453401909"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "enable": true,
+        "screen": "leagues",
+        "ad_types": [
+          {
+            "enable": true,
+            "type": "banner",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/6453401909"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "enable": true,
+        "screen": "league_detail",
+        "ad_types": [
+          {
+            "enable": true,
+            "type": "banner",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/6453401909"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "enable": true,
+        "screen": "team_detail",
+        "ad_types": [
+          {
+            "enable": true,
+            "type": "banner",
+            "units": [
+              {
+                "enable": true,
+                "network": "admob",
+                "id": "ca-app-pub-6495784676258124/6453401909"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
