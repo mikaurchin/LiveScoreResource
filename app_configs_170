@@ -17,7 +17,7 @@
   "ad_configs": {
     "enable": false,
     "video_distance": 5,
-    "matchs_per_video": 3,
+    "match_per_video": 3,
     "open_app_per_video": 2,
     "ads": [
       {
