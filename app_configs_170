@@ -1,4 +1,5 @@
 {
+  "use_header_default": true,
   "highlights_cached_size": 50,
   "new_version": {
     "enable": false,
