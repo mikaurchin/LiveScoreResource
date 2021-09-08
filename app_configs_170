@@ -1,6 +1,7 @@
 {
   "use_header_default": true,
   "highlights_cached_size": 50,
+  "youtube_enable": true,
   "new_version": {
     "enable": false,
     "version_code": 224,
