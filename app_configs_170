@@ -1,7 +1,7 @@
 {
   "use_header_default": true,
   "highlights_cached_size": 50,
-  "youtube_enable": true,
+  "youtube_enable": false,
   "new_version": {
     "enable": false,
     "version_code": 224,
@@ -17,7 +17,7 @@
     "link": "https://play.google.com/store/apps/details?id=com.mku.mkulivescore"
   },
   "ad_configs": {
-    "enable": true,
+    "enable": false,
     "video_distance": 5,
     "match_per_video": 3,
     "open_app_per_video": 2,
