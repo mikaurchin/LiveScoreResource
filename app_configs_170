@@ -17,7 +17,7 @@
     "link": "https://play.google.com/store/apps/details?id=com.mku.mkulivescore"
   },
   "ad_configs": {
-    "enable": false,
+    "enable": true,
     "video_distance": 5,
     "match_per_video": 3,
     "open_app_per_video": 2,
@@ -33,7 +33,7 @@
               {
                 "enable": true,
                 "network": "admob",
-                "id": "ca-app-pub-6495784676258124/7948052259"
+                "id": ""
               }
             ]
           },
@@ -44,7 +44,7 @@
               {
                 "enable": true,
                 "network": "admob",
-                "id": "ca-app-pub-6495784676258124/4045284501"
+                "id": ""
               }
             ]
           }
@@ -72,7 +72,7 @@
               {
                 "enable": true,
                 "network": "admob",
-                "id": "ca-app-pub-6495784676258124/1761917854"
+                "id": ""
               }
             ]
           }
@@ -89,7 +89,7 @@
               {
                 "enable": true,
                 "network": "admob",
-                "id": "ca-app-pub-6495784676258124/1345503318"
+                "id": ""
               }
             ]
           },
@@ -100,7 +100,7 @@
               {
                 "enable": true,
                 "network": "admob",
-                "id": "ca-app-pub-6495784676258124/6122476832"
+                "id": ""
               }
             ]
           },
@@ -111,7 +111,7 @@
               {
                 "enable": true,
                 "network": "admob",
-                "id": "ca-app-pub-6495784676258124/9424785453"
+                "id": ""
               }
             ]
           }
@@ -128,7 +128,7 @@
               {
                 "enable": true,
                 "network": "admob",
-                "id": "ca-app-pub-6495784676258124/6453401909"
+                "id": ""
               }
             ]
           }
@@ -145,7 +145,7 @@
               {
                 "enable": true,
                 "network": "admob",
-                "id": "ca-app-pub-6495784676258124/6453401909"
+                "id": ""
               }
             ]
           }
@@ -162,7 +162,7 @@
               {
                 "enable": true,
                 "network": "admob",
-                "id": "ca-app-pub-6495784676258124/6453401909"
+                "id": ""
               }
             ]
           }
@@ -179,7 +179,7 @@
               {
                 "enable": true,
                 "network": "admob",
-                "id": "ca-app-pub-6495784676258124/6453401909"
+                "id": ""
               }
             ]
           }
